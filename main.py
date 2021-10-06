@@ -56,6 +56,6 @@ def bmi_calculator(filename):
     
     
 
-filename = 'weight-height.csv'
+filename = 'input.json'
 
 print(bmi_calculator(filename))
