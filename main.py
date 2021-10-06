@@ -55,7 +55,8 @@ def bmi_calculator(filename):
     
     
     
+    
+if __name__ == '__main__':
+    filename = 'input.json'
 
-filename = 'input.json'
-
-print(bmi_calculator(filename))
+    print(bmi_calculator(filename))
